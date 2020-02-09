@@ -1,7 +1,7 @@
 {
   "development": {
     "username": "root",
-    "password": "Fergaburga1",
+    "password": "",
     "database": "burgersDB",
     "host": "127.0.0.1",
     "dialect": "mysql",
@@ -16,11 +16,13 @@
     "operatorsAliases": false
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "username": "qlq4sxqdixwvnb6e",
+    "password": "q2tm8mcih5oytj9b",
+    "database": "e30rv8r51ty5d9ou",
+    "host": "g8r9w9tmspbwmsyo.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql",
-    "operatorsAliases": false
+    "operatorsAliases": false,
+    "use_env_variable": "JAWSDB_URL"
   }
 }
+
